@@ -7,6 +7,9 @@ background-size: cover;
 
 
 }
+pre{
+  text-align: center;
+}
 ul.topnav {
   list-style-type: none;
   margin: 0;
