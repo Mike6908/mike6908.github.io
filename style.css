@@ -35,13 +35,18 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right,
   ul.topnav li {float: none;}
 }
-a:link {
-  color: red;
+a{
+  text-align: center;
 }
+a:link {
+    text-decoration: none;
+    color: #CCEEFF;
+}
+
 
 /* visited link */
 a:visited {
-  color: white;
+  color: #CCEEFF;
 }
 
 /* mouse over link */
